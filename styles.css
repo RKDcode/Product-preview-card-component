@@ -213,6 +213,9 @@ a {
 .price {
     gap: var(--spacing-200);
 }
+.btn-icon {
+    width: 1em;
+}
 button {
     padding: var(--spacing-200) var(--spacing-400);
     gap: var(--spacing-100);
