@@ -217,7 +217,7 @@ a {
     width: 1em;
 }
 button {
-    padding: var(--spacing-200) var(--spacing-400);
+    padding: 1rem 2rem;
     gap: var(--spacing-100);
     border-radius: .5em;
 }
